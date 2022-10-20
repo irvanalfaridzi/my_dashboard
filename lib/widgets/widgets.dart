@@ -1,0 +1,19 @@
+import 'package:carousel_slider/carousel_slider.dart';
+import 'package:flag/flag.dart';
+import 'package:flutter/material.dart';
+import 'package:my_dashboard/models/menu.dart';
+import 'package:my_dashboard/models/models.dart';
+import 'package:my_dashboard/utils/images_path.dart';
+import 'package:my_dashboard/utils/scroll_behavior.dart';
+import 'package:my_dashboard/utils/themes.dart';
+import 'package:syncfusion_flutter_charts/charts.dart';
+
+part 'my_container.dart';
+part 'my_button.dart';
+part 'my_side_bar.dart';
+part 'my_top_bar.dart';
+part 'my_card.dart';
+part 'my_item.dart';
+part 'my_bottom_bar.dart';
+part 'my_big_widget.dart';
+part 'my_body.dart';
