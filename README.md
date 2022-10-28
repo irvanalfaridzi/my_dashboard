@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/44092368/196969017-02c09b25-d3b7-4126-
 
 ## Motivation
 
-Inspired by a dashboard template called [argon-dashboard](https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html). Currently my_dashboard just has on single page demo, open for contribution. Feel free to create a PR for a new enhancement and stuff. ALl contributions are welcome 🙌🏻
+Inspired by a dashboard template called [argon-dashboard](https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html). Currently my_dashboard just has on single page demo, open for contribution. Feel free to create a PR for a new enhancement and stuff. All contributions are welcome 🙌🏻
 
 Desktop resolution:
 ![Directory overview](wiki/desktop-ss.png)  
